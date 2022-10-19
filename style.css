@@ -1,0 +1,47 @@
+.toast-container {
+    width: 250px;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    right: 0;
+    top: 50px;
+    font-size: 17px;
+    margin: auto;
+}
+.toast-message {
+    visibility: hidden;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 2px;
+    padding: 16px;
+    font-size: 17px;
+    margin-top: 5px;
+    width: auto;
+    position: fixed;
+    bottom: 20px;
+    right: 10px;
+    text-align: center;
+    text-decoration: none;
+    transition: visibility 0s, opacity 0.5s linear;
+    border-bottom: solid 2px red;
+}
+.toast--visible {
+    visibility: visible;
+    transition: padding  0.5s , border-bottom 0.5s;
+
+}
+.toast--padd {
+padding-left: 10px;
+
+}
+.toast--effect{
+    width: 500px;
+    transition: width 2s;
+}
+.toast--danger {
+    background-color: rgb(236, 19, 19);
+}
+.toast--success {
+    background-color: rgb(57, 207, 37);
+}
