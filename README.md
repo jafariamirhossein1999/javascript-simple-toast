@@ -24,3 +24,4 @@ warning
  <p style="font-weight: bold">
  > at this example i use information type for my toast message
 </p>
+> Text that is a quote
