@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="style.css">
+
+    <title>Background changer</title>
+</head>
+<body>
+
+
+<button id="infoI">toast information</button>
+<button id="DangerI">toast danger</button>
+<button id="WarningI">toast warning</button>
+<button id="SucessI">toast success</button>
+<a href="" class="toast-message"></a>
+
+<script>
+document.getElementById('infoI').addEventListener('click', ()=>{
+    const MyNewToast = new toast('Information Toast',1000,'information');
+    MyNewToast.show();
+})
+document.getElementById('DangerI').addEventListener('click', ()=>{
+    const MyNewToast = new toast('Danger Toast',1000,'danger');
+    MyNewToast.show();
+})
+document.getElementById('WarningI').addEventListener('click', ()=>{
+    const MyNewToast = new toast('Warning Toast!',1000,'warning');
+    MyNewToast.show();
+})
+document.getElementById('SucessI').addEventListener('click', ()=>{
+    const MyNewToast = new toast('Success Toast',1000,'success');
+    MyNewToast.show();
+})
+
+</script>
+</body>
+</html>

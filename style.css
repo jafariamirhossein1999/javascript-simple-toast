@@ -10,7 +10,7 @@
 }
 .toast-message {
     visibility: hidden;
-    background-color: #333;
+    background-color: #2196F3;
     color: #fff;
     text-align: center;
     border-radius: 2px;
@@ -24,7 +24,7 @@
     text-align: center;
     text-decoration: none;
     transition: visibility 0s, opacity 0.5s linear;
-    border-bottom: solid 2px red;
+ 
 }
 .toast--visible {
     visibility: visible;
