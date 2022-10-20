@@ -5,9 +5,8 @@ i made this simple javascript toast message with class
 ## Installation Instructions
 if one day u wanted to use my library you shuld:\
 use this code for example:
- const EXAMPLENAME = new toast('TOAST MESSAGE',1000,'information');
- EXAMPLENAME.show();
-
+```const EXAMPLENAME = new toast('TOAST MESSAGE',1000,'information');```
+```EXAMPLENAME.show();```
  in toast parameters first of all you need to enter your toast message
  <br>
  
@@ -22,9 +21,9 @@ at second parameter you can enter your duration time (the default duration is 40
 at last parameter you should enter toast message type:
 all of toast message type here is :
 ```information```
-danger
-success
-warning
+```danger```
+```success```
+```warning```
  <br>
 
  - **at this example i use information type for my toast message**
