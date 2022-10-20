@@ -9,11 +9,11 @@ use this code for example:
 
  in toast parameters first of all you need to enter your toast message
  <p style="font-weight: bold">
- at this example i enter TOAST MESSAGE
+ > at this example i enter TOAST MESSAGE
 </p>
 at second parameter you can enter your duration time (the default duration is 400 milisecond)
  <p style="font-weight: bold">
- at this i use 1000(1 second) for duration
+ > at this i use 1000(1 second) for duration
 </p>
 at last parameter you should enter toast message type:
 all of toast message type here is :
@@ -22,5 +22,5 @@ danger
 success
 warning
  <p style="font-weight: bold">
- at this example i use information type for my toast message
+ > at this example i use information type for my toast message
 </p>
