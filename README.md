@@ -21,7 +21,7 @@ at second parameter you can enter your duration time (the default duration is 40
 
 at last parameter you should enter toast message type:
 all of toast message type here is :
-information
+```information```
 danger
 success
 warning
