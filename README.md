@@ -13,6 +13,7 @@ use this code for example:
 </p>
 at second parameter you can enter your duration time (the default duration is 400 milisecond)
 **at this i use 1000(1 second) for duration**
+- **Igor Ferrão de Souza**
 at last parameter you should enter toast message type:
 all of toast message type here is :
 information
