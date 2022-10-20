@@ -8,11 +8,14 @@ use this code for example:
  const EXAMPLENAME = new toast('TOAST MESSAGE',1000,'information');
  EXAMPLENAME.show();
 
- - in toast parameters first of all you need to enter your toast message
+ in toast parameters first of all you need to enter your toast message
+ <hr>
  **at first parameter i used TOAST MESSAGE for my toast message**
 
 at second parameter you can enter your duration time (the default duration is 400 milisecond)
+\n
 **at this i use 1000(1 second) for duration**
+
 
 at last parameter you should enter toast message type:
 all of toast message type here is :
