@@ -11,12 +11,12 @@ use this code for example:
  in toast parameters first of all you need to enter your toast message
  <br>
  
- **at first parameter i used TOAST MESSAGE for my toast message**
+ - **at first parameter i used TOAST MESSAGE for my toast message**
 
 at second parameter you can enter your duration time (the default duration is 400 milisecond)
  <br>
 
-**at this i use 1000(1 second) for duration**
+ - **at this i use 1000(1 second) for duration**
 
 
 at last parameter you should enter toast message type:
@@ -26,5 +26,5 @@ danger
 success
 warning
  <br>
- 
-**at this example i use information type for my toast message**
+
+ - **at this example i use information type for my toast message**
