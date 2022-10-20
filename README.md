@@ -12,9 +12,7 @@ use this code for example:
  > at this example i enter TOAST MESSAGE
 </p>
 at second parameter you can enter your duration time (the default duration is 400 milisecond)
- <p style="font-weight: bold">
- > at this i use 1000(1 second) for duration
-</p>
+**at this i use 1000(1 second) for duration**
 at last parameter you should enter toast message type:
 all of toast message type here is :
 information
