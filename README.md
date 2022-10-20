@@ -9,11 +9,13 @@ use this code for example:
  EXAMPLENAME.show();
 
  in toast parameters first of all you need to enter your toast message
- <hr>
+ <br>
+ 
  **at first parameter i used TOAST MESSAGE for my toast message**
 
 at second parameter you can enter your duration time (the default duration is 400 milisecond)
-\n
+ <br>
+
 **at this i use 1000(1 second) for duration**
 
 
@@ -23,4 +25,6 @@ information
 danger
 success
 warning
+ <br>
+ 
 **at this example i use information type for my toast message**
