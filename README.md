@@ -1,6 +1,6 @@
 # intrduce:
 hello my name is AMIRHOSSEIN-JAFARI
-i made this simple javascript toast message with class
+i made this simple javascript toast message with classes
 
 ## Installation Instructions
 if one day u wanted to use my library you shuld:\
