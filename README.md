@@ -45,6 +45,6 @@ all of toast ```message``` type here is :
   <br>
 
 # Pictures Of Toast Messages
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/jafariamirhossein1999/javascript-simple-toast/raw/main/Demo%20pictures/%20(1).png?raw=true)
 
  - **at this example i use information type for my toast message**
