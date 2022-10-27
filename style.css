@@ -1,3 +1,6 @@
+a{text-decoration: none;background-color: red;}
+
+
 .toast-container {
     width: 250px;
     position: fixed;
@@ -24,6 +27,7 @@
     text-align: center;
     text-decoration: none;
     transition: visibility 0s, opacity 0.5s linear;
+   
  
 }
 .toast--visible {
@@ -45,3 +49,20 @@ padding-left: 10px;
 .toast--success {
     background-color: rgb(57, 207, 37);
 }
+svg{
+   margin-right: 10px;
+   margin-top: 5px;
+   float: left;
+}
+.toast--visible:hover{background-color: red;}
+button{
+    background-color: #6e0888;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;   
+ position: relative;
+ left: 10px;
+ top: 10px;
+    color: #fff;
+ 
+ }
